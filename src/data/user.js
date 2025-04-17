@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portfolio_Gunjan",
 		name: "Gunjan Busa",
 		email: "gunjanthummar09@gmail.com",
-		logo: "../girl_logo.png",
+		logo: "../profile.png",
 	},
 
 	socials: {
